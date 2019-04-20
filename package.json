@@ -10,6 +10,7 @@
     "@react-native-community/slider": "^1.0.4",
     "react": "16.8.3",
     "react-native": "0.59.5",
+    "react-native-drawer-layout": "^2.0.0",
     "react-native-sound": "^0.10.12"
   },
   "devDependencies": {
